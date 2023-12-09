@@ -1,3 +1,3 @@
-## *CodeSignal-Solutions*
+# *CodeSignal-Solutions*
 
-# **Solutions to code signal problems.**
+## **Solutions to code signal problems.**
